@@ -1,0 +1,8 @@
+__pycache__/
+
+*.exe
+*.hex
+*.mp4
+*.msi
+test.*
+vlc.py
