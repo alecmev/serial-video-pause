@@ -4,5 +4,6 @@ __pycache__/
 *.hex
 *.mp4
 *.msi
+*.sublime-workspace
 test.*
 vlc.py
