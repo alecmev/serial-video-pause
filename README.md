@@ -9,4 +9,4 @@ step 1. Prerequisites:
 * VLC 2
 
 Run `setup.bat` to get the remaining dependencies. Should work on any OS
-supported by both Python and VLC.
+supported by both Python and VLC. Use `com0com` if you have no actual hardware.

@@ -2,6 +2,7 @@
 	"folders":
 	[
 		{
+      "name": "ekselcom/serial-video-pause",
 			"path": "."
 		}
 	]
